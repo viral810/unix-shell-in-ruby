@@ -2,7 +2,7 @@
 
 ## Definitions
 
-Spawn in computing refers to a function that loads and exectures a new child process. The current process may wait for the child to terminate or may continue to execute concurrent computing. Creating a new subprocess requires enough memory in which both the child process and the current program can execute.
+**Spawn** in computing refers to a function that loads and exectures a new child process. The current process may wait for the child to terminate or may continue to execute concurrent computing. Creating a new subprocess requires enough memory in which both the child process and the current program can execute.
 
 ## Documentation
 
